@@ -10,6 +10,35 @@ Many students prepare for interviews by searching random interview questions onl
 
 ResumeLens AI solves this problem by analyzing a candidate's resume and the target job description using Google Gemini AI. It generates role-specific technical and behavioral interview questions, calculates a resume match score, identifies missing skills, and creates a personalized learning roadmap. This helps candidates focus on the right topics and prepare more effectively for their interviews.
 
+---
+
+# 📸 Application Preview
+
+## 🏠 Login Page
+
+![Login Page](images/login.png)
+
+---
+
+## 🎯 Generate Interview Strategy
+
+![Generate Strategy](images/dashboard.png)
+
+---
+
+## 📊 AI Interview Report
+
+![Interview Report](images/interview-report.png)
+
+---
+
+## 🗺️ Personalized Learning Roadmap
+
+![Roadmap](images/roadmap.png)
+
+---
+
+
 
 ---
 
