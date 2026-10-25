@@ -176,7 +176,7 @@ https://resume-lens-ai-beta.vercel.app
 - Full-Stack MERN Architecture
 - Google Gemini AI Integration
 - Resume Parsing
-- Resume Match Score Analysis
+
 - AI-powered Technical & Behavioral Interview Generation
 - Personalized Learning Roadmap
 - JWT & Cookie-based Authentication
